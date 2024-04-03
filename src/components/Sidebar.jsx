@@ -20,7 +20,7 @@ const Sidebar = ({ toggleSidebar, isOpen }) => {
 
   return (
     <div className="sidecontainer" 
-    style={{ width: isOpen ? "70px" : "240px" }}>
+    style={{ width: isOpen ? "70px" : "280px" }}>
       <div className="logoContainer">
         {isOpen === false ? (
           <img
