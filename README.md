@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Get to know about project
+This is a basic dashboard for web3 js which has metamask wallet connection code.
+
 ## Available Scripts
 
 In the project directory, you can run:
